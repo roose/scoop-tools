@@ -1,0 +1,14 @@
+{
+    "version": "1.0.0",
+    "description": "Windows command line tools",
+    "homepage": "https://github.com/roose/win-cli",
+    "license": "MIT",
+    "url": "https://github.com/roose/win-cli/archive/v1.0.0.zip",
+    "hash": "31d59f507805b5f2d89d92f2d2cfca262216044a969ad5df453f5135fdc633d2",
+    "extract_dir": "win-cli",
+    "bin": "win.ps1",
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/roose/win-cli/archive/v$version.zip"
+    }
+}
