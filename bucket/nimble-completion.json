@@ -1,0 +1,16 @@
+{
+  "homepage": "https://github.com/roose/nimble-completion",
+  "license": "MIT",
+  "version": "1.0.0",
+  "url": [
+    "https://raw.githubusercontent.com/roose/nimble-completion/master/nimble-completion.psm1",
+    "https://raw.githubusercontent.com/roose/nimble-completion/master/nimble-completion.psd1"
+  ],
+  "hash": [
+    "3CDF93108CA1D1C1C10CAED69C553FE1470B7773743AF493C20EDE729D7CD577",
+    "1D51F48D34F9EF88F1DE89D003A6A9DD4254A6168E07AC4DF3F2DCF376565501"
+  ],
+  "psmodule": {
+    "name": "nimble-completion"
+  }
+}
